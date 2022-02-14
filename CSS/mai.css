@@ -1,0 +1,23 @@
+body {
+    background-color: #03313f;
+    color: whitesmoke;
+    
+}
+.card {
+    background-color: #6e7e8e;
+    
+}
+h1 {
+    text-align: center;
+    
+}
+.none {
+    display: none;
+}
+.btn {
+    padding: 3px;
+}
+.checked {
+    background-color: rgb(221, 192, 192);
+    text-decoration: line-through;
+}
